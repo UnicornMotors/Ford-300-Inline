@@ -16,3 +16,7 @@ Dang!  12k load for an ol'  ¾ ton Dent Side?  That's actually really good!  Kno
 
 If you keep towing like you do, I see an F350 leaf pack, a 5 link setup up front, and a brownie box in the not too distant future haha. Keep up the great work boss, looking forward to what's coming next👍
 — [Josef Robbins](https://www.youtube.com/watch?v=leUwHonMGgY&lc=UgzMb7XU0xob1KQ0wAd4AaABAg)
+
+# other: Channel
+## PowerNation
+[Turbocharged Ford 300 Inline Six Makes Over 500 HP on the Dyno - Engine Power S8, E14](https://youtu.be/SZoV6E5DDXI)
