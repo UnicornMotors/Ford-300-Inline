@@ -2,6 +2,7 @@
 ## Wasted Paycheck Garage
 channel: https://www.youtube.com/channel/UCb2aiK40yxGTsdpjnpkgSgQ
 - [4.9 Ford with 78mm Turbo](https://youtu.be/nkTuYL9uLW4)
+- [1979 F250 w/ 78mm Turbo - Wasted Paycheck Garage Episode #2](https://youtu.be/lxa6nTh93iQ?list=TLPQMTAwODIwMjLXi1oFDHOwxA)
 - [Taking a Closer Look at my 4.9 Ford w/ 78mm Turbo](https://youtu.be/eNYPgm45W4w)
 - [Towing 12,000 pounds with my Turbo 4.9!](https://youtu.be/leUwHonMGgY)
 
