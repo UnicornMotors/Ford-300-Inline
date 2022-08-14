@@ -23,3 +23,5 @@ If you keep towing like you do, I see an F350 leaf pack, a 5 link setup up front
 ## PowerNation
 - [Turbocharged Ford 300 Inline Six Makes Over 500 HP on the Dyno - Engine Power S8, E14](https://youtu.be/SZoV6E5DDXI)
 - [What Will A New Top End Do For Our Old School Inline 6 On The Dyno? - Engine Power S1, E4](https://youtu.be/6PVpBqntlVI)
+
+[95 F150 300 4.9 Inline 6 Turbo - Highway Pull](https://youtu.be/tbE5vH87v5s)
