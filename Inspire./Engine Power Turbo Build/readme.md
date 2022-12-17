@@ -1,3 +1,6 @@
+# Playlist:
+https://www.youtube.com/playlist?list=PLgDo8z2IgBRUlsDn03dDIA_mScKxybx2h
+
 # Restoration
 - [Will The Ford 300 Inline Six Start After Sitting For 20 Years? - Engine Power S7, E14](https://youtu.be/y322vFFC9bc)
 
@@ -7,3 +10,4 @@
 
 # Turbo
 - [Turbocharged Ford 300 Inline Six Makes Over 500 HP on the Dyno - Engine Power S8, E14](https://youtu.be/SZoV6E5DDXI)
+
