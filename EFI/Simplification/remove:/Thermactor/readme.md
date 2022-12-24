@@ -4,3 +4,6 @@ sch:
 
 # relation:
 https://www.scramspeed.com/products/ford-smog-thermactor-cylinder-head-plugs.html
+
+# Guide
+https://www.ford-trucks.com/forums/255799-what-the-heck-is-a-thermactor.html
