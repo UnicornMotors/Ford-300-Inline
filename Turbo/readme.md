@@ -1,5 +1,9 @@
 # Favorite! Channel:
-## Wasted Paycheck Garage
+
+## by: Profound
+[Nick's CRAZY Superturbocharged Efi Ford 300 Inline 6 Part 1](https://youtu.be/PQmL2nXjTGc)
+
+## by: Wasted Paycheck Garage
 channel: https://www.youtube.com/channel/UCb2aiK40yxGTsdpjnpkgSgQ
 - [4.9 Ford with 78mm Turbo](https://youtu.be/nkTuYL9uLW4)
 - [1979 F250 w/ 78mm Turbo - Wasted Paycheck Garage Episode #2](https://youtu.be/lxa6nTh93iQ?list=TLPQMTAwODIwMjLXi1oFDHOwxA)
