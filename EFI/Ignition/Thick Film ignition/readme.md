@@ -11,3 +11,8 @@ Quote:
 >Thick Film ignition, AKA TFI-IV:
 >
 >EEC-IV and TFI-IV are symbiotic, and were ushered in at the same time. Since the ECM now controls ignition timing, TFI-IV distributors will not have a vacuum advance. Early ignition modules were mounted to the distributor, later ones moved to a heat sink somewhere under the hood.
+
+
+# Controller: Megasquirt
+https://fordsix.com/threads/cam-sensor-for-megasquirt-or-eqv.75607/#post-582202
+<- http://fordsix.com/threads/eec-iv-basics.82486/post-649142
