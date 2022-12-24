@@ -2,6 +2,9 @@ sch:
 - https://www.youtube.com/results?search_query=smog+pump+delete
 - https://www.youtube.com/results?search_query=smog+pump
 
+# Engineering
+[Principle of the Secondary Air System](https://youtu.be/cw8vzuxc1eQ)
+
 # Guide
 [How To Delete/Bypass Ford F150 Emissions/Smog Pump](https://youtu.be/Ycw5Ue-fMhc)
 
