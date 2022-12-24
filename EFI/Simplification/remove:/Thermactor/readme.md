@@ -7,3 +7,6 @@ https://www.scramspeed.com/products/ford-smog-thermactor-cylinder-head-plugs.htm
 
 # Guide
 https://www.ford-trucks.com/forums/255799-what-the-heck-is-a-thermactor.html
+
+# Component:
+## TAB and TAD (Thermactor Air Bypass and Divert)
