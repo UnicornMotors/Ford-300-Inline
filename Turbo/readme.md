@@ -1,7 +1,10 @@
 # Favorite! Channel:
 
 ## by: Profound
-[Nick's CRAZY Superturbocharged Efi Ford 300 Inline 6 Part 1](https://youtu.be/PQmL2nXjTGc)
+- [How To Supercharge And/Or Turbocharge Your Ford 240/300 Inline Six Part 1](https://youtu.be/kdinT19dvf0)
+- [Nick's CRAZY Superturbocharged Efi Ford 300 Inline 6 Part 1](https://youtu.be/PQmL2nXjTGc)
+- [Turbo Ford 300 Lunati Cam Idle 277/296 Bootlegger Lobes Nick's Crazy Superturbocharged 300 Part 2](https://youtu.be/bt_pVXhRe_s)
+- [Nick's CRAZY Superturbocharged Ford 300-6 Idle Rev Walk Around Part 3](https://youtu.be/kW9kfFQxtx8)
 
 ## by: Wasted Paycheck Garage
 channel: https://www.youtube.com/channel/UCb2aiK40yxGTsdpjnpkgSgQ
