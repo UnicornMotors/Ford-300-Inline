@@ -1,6 +1,6 @@
 https://www.google.com/search?q=Speeduino+ford+300
 
-# Discussion:
+# Guide: MegaSquirt!
 https://fordsix.com/threads/93-f150-300-i6-megasquirt-how-to-and-build-thread.76470/
 
 ## Wiring Diagram:
