@@ -6,3 +6,4 @@ sch:
 
 Guide:
 - [What Is Mandrel Bending? Tube Bending 101 Series at Trick-Tools.com](https://youtu.be/2BHVzgCwms4)
+- [Mandrel Tube Bending EXPOSED! Watch as Bill Hahn Jr tells the REAL story.](https://youtu.be/0FXB9AeV7Aw)
