@@ -1,6 +1,9 @@
 # Fundamentals:
 [Ignition Systems Electronic Switching](https://youtu.be/4NiGBLfGTxU)
 
+## Dwell Angle
+sch: https://www.youtube.com/results?search_query=ignition+dwell+angle
+
 # /Reluctor
 https://www.youtube.com/results?search_query=how+a+reluctor+works
 
