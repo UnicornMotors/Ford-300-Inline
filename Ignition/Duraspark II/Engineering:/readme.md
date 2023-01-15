@@ -9,6 +9,11 @@ sch: https://www.youtube.com/results?search_query=ignition+dwell+angle
 guide:
 - [07 Dwell Angle](https://youtu.be/uPWZj5VZyQo)
 
+# Ballast Resistor
+sch: https://www.youtube.com/results?search_query=ignition+ballast+resistor
+
+guide:
+- [How the Ballast Resistor Works](https://youtu.be/PCs5gAZBbxU)
 
 # /Reluctor
 https://www.youtube.com/results?search_query=how+a+reluctor+works
