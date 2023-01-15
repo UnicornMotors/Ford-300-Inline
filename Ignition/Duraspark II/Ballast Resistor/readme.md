@@ -1,0 +1,1 @@
+- [How the Ballast Resistor Works](https://youtu.be/PCs5gAZBbxU)
