@@ -1,5 +1,6 @@
 # Fundamentals:
 - [Ignition Systems Electronic Switching](https://youtu.be/4NiGBLfGTxU)
+- [How Ignition System Works](https://youtu.be/W94iksaQwUo)
 - [Ignition system | engineering | Britannica](https://www.britannica.com/technology/ignition-system)
 
 ## Dwell Angle
