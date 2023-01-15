@@ -2,7 +2,7 @@
 # Guide:
 ## Top:
 [1970 Ford F100 Restomod Duraspark](https://youtu.be/m88xAflUotM)
-- Explains mounting of ICM, & Wiring Harness
+- Explains mounting & grounding of Ignition Control Module, & Wiring Harness
 
 # Discuss:
 >control box wiring
